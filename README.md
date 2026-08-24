@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Yousuf Ali
 
-<!--
-**ch-yousufalii/ch-yousufalii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI Engineer & Software Engineer
 
-Here are some ideas to get you started:
+I'm passionate about learning, building projects, and exploring the
+world of **Artificial Intelligence** and **Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • C • C++ • HTML • CSS
+
+**Backend & Development:** Flask • FastAPI • Git • GitHub • Linux
+
+**AI Tools:** Claude • Gemini
+
+## 🌱 Currently Learning
+
+-   AI Engineering
+-   Software Engineering
+-   Backend Development
+-   AI-powered applications
+
+> **Learning every day and building for tomorrow. 🚀**
