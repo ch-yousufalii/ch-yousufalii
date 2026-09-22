@@ -1,23 +1,6 @@
-# Hi 👋, I'm Yousuf Ali
+<div align="center">
 
-### 🚀 Aspiring AI Engineer & Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2EA3F7&center=true&vCenter=true&width=500&lines=Yousuf+Ali;AI+Engineer+in+the+making;Software+Engineer+at+heart" alt="Typing SVG" />
 
-I'm passionate about learning, building projects, and exploring the
-world of **Artificial Intelligence** and **Software Engineering**.
+</div>
 
-## 🛠️ Tech Stack
-
-**Languages:** Python • JavaScript • C • C++ • HTML • CSS
-
-**Backend & Development:** Flask • FastAPI • Git • GitHub • Linux
-
-**AI Tools:** Claude • Gemini
-
-## 🌱 Currently Learning
-
--   AI Engineering
--   Software Engineering
--   Backend Development
--   AI-powered applications
-
-> **Learning every day and building for tomorrow. 🚀**
